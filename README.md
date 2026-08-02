@@ -37,3 +37,4 @@ This project uses MATLAB to model and analyze the charging profile of a lithium-
 - A table with 10 diffetent time intervals should show with voltage rate of change. 
 - The graph Voltage vs Time with Key Rate-of-Change Points should be displayed with 9 key points plotted along the line.
 - Values of the time to reach 80% charge and time to reach 100% charge should be calculated and shown.
+- A summary table showing a small summary of all the values should be displayed.
