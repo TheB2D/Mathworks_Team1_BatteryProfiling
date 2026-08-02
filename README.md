@@ -24,3 +24,8 @@ This project uses MATLAB to model and analyze the charging profile of a lithium-
 4. Open "BatteryCharging_StudentProjectTemplate.mlx".
 5. Make sure the battery data is in the same folder.
 6. Click "Run".
+## Expected Results
+### Step 1
+5 data points should be loaded and displayed on the program.
+### Step 2
+A graph of Current (Blue) and Voltage (Red) over time should be displayed
