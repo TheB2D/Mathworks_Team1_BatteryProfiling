@@ -32,5 +32,8 @@ This project uses MATLAB to model and analyze the charging profile of a lithium-
 - A graph or the RC-Circuit Model comparing Measured voltage and Fitted Model of the battery for Cycle 1 should be shown.
 - Display of Goodness-of-fit statistics
 ### Task 2
-- 3 Graphs should be displayed 
-### Task 3 
+- 3 Graphs should be displayed Voltage vs Time, Current vs Time, and Power vs Time.
+### Task 3
+- A table with 10 diffetent time intervals should show with voltage rate of change. 
+- The graph Voltage vs Time with Key Rate-of-Change Points should be displayed with 9 key points plotted along the line.
+- Values of the time to reach 80% charge and time to reach 100% charge should be calculated and shown.
