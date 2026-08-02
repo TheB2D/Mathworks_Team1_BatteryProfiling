@@ -25,7 +25,12 @@ This project uses MATLAB to model and analyze the charging profile of a lithium-
 5. Make sure the battery data is in the same folder.
 6. Click "Run".
 ## Expected Results
-### Step 1
-5 data points should be loaded and displayed on the program.
-### Step 2
-A graph of Current (Blue) and Voltage (Red) over time should be displayed
+### Task 1
+- 5 data points should be loaded and displayed on a table in the program.
+- A graph of Current (Blue) and Voltage (Red) over time should be displayed.
+- Values of vMin (Voltage minimum) vMax (Voltage maximum) and vTau_thy (Voltage when T = Tau) should be displayed.
+- A graph or the RC-Circuit Model comparing Measured voltage and Fitted Model of the battery for Cycle 1 should be shown.
+- Display of Goodness-of-fit statistics
+### Task 2
+- 3 Graphs should be displayed 
+### Task 3 
