@@ -1,6 +1,11 @@
 # Modeling and Analyzing a Battery Profile
-### Jarren Wilson, Kenda Kattash, James Tan, Christopher Kaing
+### Jarren Wilson, Kenda Kattash, James Tan, Christopher Khaing
 
+## Meet the Team
+- Jarren Wilson: Project Manager, EE @ UCSD
+- Kenda Kattash: Documentation & Visualization Lead, EE @ UCLA
+- James Tan: Analysis/Validation Lead, EE @ UCI
+- Christopher Khaing: Modeling Lead, EECS @ UCB
 
 ## Project Overview
 This project uses MATLAB to model and analyze the charging profile of a lithium-ion battery. The program imports charging data and displays how voltage, current, and power change overtime.
