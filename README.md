@@ -26,6 +26,8 @@ Curve Fitting Toolbox
 4. Open "BatteryCharging_StudentProjectTemplate.mlx".
 5. Make sure the battery data is in the same folder.
 6. Install required Matlab Toolboxes
+   - In the Matlab Application click "Home" and then "Add-ons".
+   - On the "Add-ons" popup search & install "Curve Fitting Toolbox"
 7. Click "Run".
 ## Expected Results
 ### Task 1
@@ -40,4 +42,14 @@ Curve Fitting Toolbox
 - A table with 10 diffetent time intervals should show with voltage rate of change. 
 - The graph Voltage vs Time with Key Rate-of-Change Points should be displayed with 9 key points plotted along the line.
 - Values of the time to reach 80% charge and time to reach 100% charge should be calculated and shown.
+- Calculate the total energy delivered to the battery during the charging
+- Estimate the resistive energy loss
 - A summary table showing a small summary of all the values should be displayed.
+
+## Resources Used
+- [Curve Fitting Onramp](https://matlabacademy.mathworks.com/details/curve-fitting-onramp/orcf)
+- [Example MathWorks Lithium Ion Battery Data](https://www.mathworks.com/help/predmaint/ug/data-analysis-and-feature-extraction-for-battery-raw-cycling-data.html)
+- [Curve Fitting Workflow](https://www.mathworks.com/help/curvefit/fit.html)
+- [Numerical Integration and Differentiation with MATLAB](https://www.mathworks.com/help/matlab/numerical-integration-and-differentiation.html)
+
+
