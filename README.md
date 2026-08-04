@@ -21,9 +21,10 @@ Curve Fitting Toolbox
 ## How to Run
 ### Running with Matlab Online
 1. Click this button: [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=TheB2D/Mathworks_Team1_BatteryProfiling)
-2. Click the following checkbox then save and open the repository.
-3. Open "BatteryCharging_StudentProjectTemplate.mlx".
-4. Click "Run".
+2. Login to Matlab
+3. Click the following checkbox then save and open the repository.
+4. Open "BatteryCharging_StudentProjectTemplate.mlx".
+5. Click "Run".
 ### Running with the Matlab application
 1. Download or copy this repository.
 2. Open MATLAB. 
